@@ -1,2 +1,7 @@
 Gmail related code.
-Old features.
+Features has been updated.
+Changing Gmail to Mail..
+After changing code for updates, follow two steps
+1. Pull request
+2. Merge
+3. Deploy in server
